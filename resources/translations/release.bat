@@ -1,22 +1,22 @@
-lrelease -compress -ts sak_en.ts
-lrelease -compress -ts sak_zh_CN.ts
-lrelease -compress -ts sak_ar.ts
-lrelease -compress -ts sak_cs.ts
-lrelease -compress -ts sak_da.ts
-lrelease -compress -ts sak_de.ts
-lrelease -compress -ts sak_es.ts
-lrelease -compress -ts sak_fa.ts
-lrelease -compress -ts sak_fi.ts
-lrelease -compress -ts sak_fr.ts
-lrelease -compress -ts sak_he.ts
-lrelease -compress -ts sak_uk.ts
-lrelease -compress -ts sak_it.ts
-lrelease -compress -ts sak_ja.ts
-lrelease -compress -ts sak_ko.ts
-lrelease -compress -ts sak_lt.ts
-lrelease -compress -ts sak_pl.ts
-lrelease -compress -ts sak_pt.ts
-lrelease -compress -ts sak_ru.ts
-lrelease -compress -ts sak_sk.ts
-lrelease -compress -ts sak_sl.ts
-lrelease -compress -ts sak_sv.ts
+lrelease -compress sak_en.ts -qm sak_en.qm
+lrelease -compress sak_zh_CN.ts -qm sak_zh_CN.qm
+lrelease -compress sak_ar.ts -qm sak_ar.qm
+lrelease -compress sak_cs.ts -qm sak_cs.qm
+lrelease -compress sak_da.ts -qm sak_da.qm
+lrelease -compress sak_de.ts -qm sak_de.qm
+lrelease -compress sak_es.ts -qm sak_es.qm
+lrelease -compress sak_fa.ts -qm sak_fa.qm
+lrelease -compress sak_fi.ts -qm sak_fi.qm
+lrelease -compress sak_fr.ts -qm sak_fr.qm
+lrelease -compress sak_he.ts -qm sak_he.qm
+lrelease -compress sak_uk.ts -qm sak_uk.qm
+lrelease -compress sak_it.ts -qm sak_it.qm
+lrelease -compress sak_ja.ts -qm sak_ja.qm
+lrelease -compress sak_ko.ts -qm sak_ko.qm
+lrelease -compress sak_lt.ts -qm sak_lt.qm
+lrelease -compress sak_pl.ts -qm sak_pl.qm
+lrelease -compress sak_pt.ts -qm sak_pt.qm
+lrelease -compress sak_ru.ts -qm sak_ru.qm
+lrelease -compress sak_sk.ts -qm sak_sk.qm
+lrelease -compress sak_sl.ts -qm sak_sl.qm
+lrelease -compress sak_sv.ts -qm sak_sv.qm

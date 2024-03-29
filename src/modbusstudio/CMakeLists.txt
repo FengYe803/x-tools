@@ -10,8 +10,8 @@ set(SAK_COMMON_SOURCES
     ${CMAKE_SOURCE_DIR}/src/common/common/saktranslator.h
     ${CMAKE_SOURCE_DIR}/src/common/common/saktranslator.cc
     ${CMAKE_SOURCE_DIR}/src/common/commonui/sakui.h
-    ${CMAKE_SOURCE_DIR}/src/common/commonui/sakcommonmainwindow.h
-    ${CMAKE_SOURCE_DIR}/src/common/commonui/sakcommonmainwindow.cc
+    ${CMAKE_SOURCE_DIR}/src/common/commonui/sakmainwindow.h
+    ${CMAKE_SOURCE_DIR}/src/common/commonui/sakmainwindow.cc
     ${CMAKE_SOURCE_DIR}/qtswissarmyknife.qrc)
 
 set(SAK_MODBUSSTUDIO_SOURCES ${SAK_MODBUSSTUDIO_SOURCES} ${SAK_COMMON_SOURCES})
